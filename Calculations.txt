@@ -1,0 +1,31 @@
+Revenue And Profit Calculations:
+
+Cost of Goods Sold (COGS) = Unit Price * Quantity
+
+VAT = 5% of COGS
+
+VAT amount is added to COGS, and this total (gross sales) is billed to the customer.
+
+Total (gross sales) = VAT + COGS
+
+Gross Profit (gross income) = Total (gross sales) - COGS
+
+Gross Margin is the gross profit expressed as a percentage of the total revenue.
+
+Gross Margin = (Gross Income / Total Revenue)
+
+Example with the first row in our DB:
+--------------------------------------------------------------------------------------------------------
+Data given:
+
+Unit Price = $45.79
+
+Quantity = 7
+
+COGS = $45.79 * 7 = $320.53
+
+VAT = 5% * COGS = 5% * $320.53 = $16.0265
+
+Total = VAT + COGS = $16.0265 + $320.53 = $336.5565
+
+Gross Margin Percentage = (Gross Income / Total Revenue) = $16.0265 / $336.5565 = 0.047619 (approx 4.7619%)
