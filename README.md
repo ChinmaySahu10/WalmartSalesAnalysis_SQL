@@ -33,19 +33,13 @@ The data contains 17 columns and 1000 rows:
 | gross_income            | Gross Income                            | DECIMAL(10, 2) |
 | rating                  | Rating                                  | FLOAT(2, 1)    |
 
-### Analysis List
+### Analysis
 
-1. Product Analysis
+Conducting a detailed examination of the dataset involves assessing the performance of various product lines. The goal is to identify top-performing product lines and pinpoint areas that require improvement.
 
-> Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
+Additionally, exploring sales trends provides valuable insights into the effectiveness of implemented sales strategies. Understanding these trends enables businesses to make informed decisions and optimize their approaches for increased sales.
 
-2. Sales Analysis
-
-> This analysis aims to answer the question of the sales trends of product. The result of this can help use measure the effectiveness of each sales strategy the business applies and what modificatoins are needed to gain more sales.
-
-3. Customer Analysis
-
-> This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
+Furthermore, a thorough analysis of customer segments, purchasing patterns, and profitability associated with each segment is essential. This examination offers valuable insights, guiding strategic decisions and enhancing overall business performance.
 
 ## Approach 
 
